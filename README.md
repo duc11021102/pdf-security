@@ -1,6 +1,8 @@
 ## Python Application - Protect your pdf file with custom password
 You can protect your PDF file with a custom password using `Python`
-<h4><p align="center"><img src="" width="800"/></p></h4>
+
+[//]: # (<h4><p align="center"><img src="" width="800"/></p></h4>)
+
 ```
 What the program does? 
 
