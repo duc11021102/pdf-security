@@ -13,7 +13,7 @@ What the program does?
 
 ## Quick start 
 
-<h4>The simplest method is to install the portable version using the .exe file, available at <a href="fake">this link</a>.
+<h4>The simplest method is to install the portable version using the .exe file, available at <a href="https://github.com/duc11021102/pdf-security/releases/download/v1.0/pdf-security.exe">this link</a>.
 <br>
 Or install with <b>python</b>:
 
